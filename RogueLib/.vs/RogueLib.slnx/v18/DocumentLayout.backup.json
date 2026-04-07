@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Winter Term_2026\\C#_Homework\\Rogue_Project\\RogueLib\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{970554E7-D911-C006-FFE2-2306B12F1BF5}|RogueLib\\RogueLib.csproj|c:\\winter term_2026\\c#_homework\\rogue_project\\roguelib\\roguelib\\entities\\screen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{970554E7-D911-C006-FFE2-2306B12F1BF5}|RogueLib\\RogueLib.csproj|solutionrelative:roguelib\\entities\\screen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83636DE1-3AF8-9028-5C00-D02F9FF2398A}|ScreenDemo\\ScreenDemo.csproj|c:\\winter term_2026\\c#_homework\\rogue_project\\roguelib\\screendemo\\gamemap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83636DE1-3AF8-9028-5C00-D02F9FF2398A}|ScreenDemo\\ScreenDemo.csproj|solutionrelative:screendemo\\gamemap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83636DE1-3AF8-9028-5C00-D02F9FF2398A}|ScreenDemo\\ScreenDemo.csproj|c:\\winter term_2026\\c#_homework\\rogue_project\\roguelib\\screendemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83636DE1-3AF8-9028-5C00-D02F9FF2398A}|ScreenDemo\\ScreenDemo.csproj|solutionrelative:screendemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83636DE1-3AF8-9028-5C00-D02F9FF2398A}|ScreenDemo\\ScreenDemo.csproj|c:\\winter term_2026\\c#_homework\\rogue_project\\roguelib\\screendemo\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83636DE1-3AF8-9028-5C00-D02F9FF2398A}|ScreenDemo\\ScreenDemo.csproj|solutionrelative:screendemo\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{970554E7-D911-C006-FFE2-2306B12F1BF5}|RogueLib\\RogueLib.csproj|c:\\winter term_2026\\c#_homework\\rogue_project\\roguelib\\roguelib\\roguelib.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{970554E7-D911-C006-FFE2-2306B12F1BF5}|RogueLib\\RogueLib.csproj|solutionrelative:roguelib\\roguelib.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{970554E7-D911-C006-FFE2-2306B12F1BF5}|RogueLib\\RogueLib.csproj|c:\\winter term_2026\\c#_homework\\rogue_project\\roguelib\\roguelib\\entities\\vector2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{970554E7-D911-C006-FFE2-2306B12F1BF5}|RogueLib\\RogueLib.csproj|solutionrelative:roguelib\\entities\\vector2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{970554E7-D911-C006-FFE2-2306B12F1BF5}|RogueLib\\RogueLib.csproj|c:\\winter term_2026\\c#_homework\\rogue_project\\roguelib\\roguelib\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{970554E7-D911-C006-FFE2-2306B12F1BF5}|RogueLib\\RogueLib.csproj|solutionrelative:roguelib\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RogueLib",
+              "DocumentMoniker": "C:\\Winter Term_2026\\C#_Homework\\Rogue_Project\\RogueLib\\RogueLib\\RogueLib.csproj",
+              "RelativeDocumentMoniker": "RogueLib\\RogueLib.csproj",
+              "ToolTip": "C:\\Winter Term_2026\\C#_Homework\\Rogue_Project\\RogueLib\\RogueLib\\RogueLib.csproj",
+              "RelativeToolTip": "RogueLib\\RogueLib.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-04T21:32:29.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameMap.cs",
+              "DocumentMoniker": "C:\\Winter Term_2026\\C#_Homework\\Rogue_Project\\RogueLib\\ScreenDemo\\GameMap.cs",
+              "RelativeDocumentMoniker": "ScreenDemo\\GameMap.cs",
+              "ToolTip": "C:\\Winter Term_2026\\C#_Homework\\Rogue_Project\\RogueLib\\ScreenDemo\\GameMap.cs",
+              "RelativeToolTip": "ScreenDemo\\GameMap.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAADUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T21:27:22.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Winter Term_2026\\C#_Homework\\Rogue_Project\\RogueLib\\ScreenDemo\\Player.cs",
+              "RelativeDocumentMoniker": "ScreenDemo\\Player.cs",
+              "ToolTip": "C:\\Winter Term_2026\\C#_Homework\\Rogue_Project\\RogueLib\\ScreenDemo\\Player.cs",
+              "RelativeToolTip": "ScreenDemo\\Player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T21:26:43.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Winter Term_2026\\C#_Homework\\Rogue_Project\\RogueLib\\ScreenDemo\\Program.cs",
+              "RelativeDocumentMoniker": "ScreenDemo\\Program.cs",
+              "ToolTip": "C:\\Winter Term_2026\\C#_Homework\\Rogue_Project\\RogueLib\\ScreenDemo\\Program.cs",
+              "RelativeToolTip": "ScreenDemo\\Program.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAcwFYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T17:21:26.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Vector2.cs",
+              "DocumentMoniker": "C:\\Winter Term_2026\\C#_Homework\\Rogue_Project\\RogueLib\\RogueLib\\Entities\\Vector2.cs",
+              "RelativeDocumentMoniker": "RogueLib\\Entities\\Vector2.cs",
+              "ToolTip": "C:\\Winter Term_2026\\C#_Homework\\Rogue_Project\\RogueLib\\RogueLib\\Entities\\Vector2.cs",
+              "RelativeToolTip": "RogueLib\\Entities\\Vector2.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA4wCwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T17:20:13.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Screen.cs",
+              "DocumentMoniker": "C:\\Winter Term_2026\\C#_Homework\\Rogue_Project\\RogueLib\\RogueLib\\Entities\\Screen.cs",
+              "RelativeDocumentMoniker": "RogueLib\\Entities\\Screen.cs",
+              "ToolTip": "C:\\Winter Term_2026\\C#_Homework\\Rogue_Project\\RogueLib\\RogueLib\\Entities\\Screen.cs",
+              "RelativeToolTip": "RogueLib\\Entities\\Screen.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T17:18:41.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Winter Term_2026\\C#_Homework\\Rogue_Project\\RogueLib\\RogueLib\\Program.cs",
+              "RelativeDocumentMoniker": "RogueLib\\Program.cs",
+              "ToolTip": "C:\\Winter Term_2026\\C#_Homework\\Rogue_Project\\RogueLib\\RogueLib\\Program.cs",
+              "RelativeToolTip": "RogueLib\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T17:17:21.987Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

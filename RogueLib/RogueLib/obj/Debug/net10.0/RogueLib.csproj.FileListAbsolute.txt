@@ -1,0 +1,11 @@
+C:\Winter Term_2026\C#_Homework\Rogue_Project\RogueLib\RogueLib\obj\Debug\net10.0\RogueLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Winter Term_2026\C#_Homework\Rogue_Project\RogueLib\RogueLib\obj\Debug\net10.0\RogueLib.AssemblyInfoInputs.cache
+C:\Winter Term_2026\C#_Homework\Rogue_Project\RogueLib\RogueLib\obj\Debug\net10.0\RogueLib.AssemblyInfo.cs
+C:\Winter Term_2026\C#_Homework\Rogue_Project\RogueLib\RogueLib\obj\Debug\net10.0\RogueLib.csproj.CoreCompileInputs.cache
+C:\Winter Term_2026\C#_Homework\Rogue_Project\RogueLib\RogueLib\bin\Debug\net10.0\RogueLib.deps.json
+C:\Winter Term_2026\C#_Homework\Rogue_Project\RogueLib\RogueLib\bin\Debug\net10.0\RogueLib.dll
+C:\Winter Term_2026\C#_Homework\Rogue_Project\RogueLib\RogueLib\bin\Debug\net10.0\RogueLib.pdb
+C:\Winter Term_2026\C#_Homework\Rogue_Project\RogueLib\RogueLib\obj\Debug\net10.0\RogueLib.dll
+C:\Winter Term_2026\C#_Homework\Rogue_Project\RogueLib\RogueLib\obj\Debug\net10.0\refint\RogueLib.dll
+C:\Winter Term_2026\C#_Homework\Rogue_Project\RogueLib\RogueLib\obj\Debug\net10.0\RogueLib.pdb
+C:\Winter Term_2026\C#_Homework\Rogue_Project\RogueLib\RogueLib\obj\Debug\net10.0\ref\RogueLib.dll
